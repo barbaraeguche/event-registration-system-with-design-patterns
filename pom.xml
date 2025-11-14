@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.assignments</groupId>
-	<artifactId>event-registration-system-design-patterns</artifactId>
+	<artifactId>event-registration-system-with-design-patterns</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>event-registration-system-design-patterns</name>
+	<name>event-registration-system-with-design-patterns</name>
 	<packaging>war</packaging>
 	
 	<properties>
